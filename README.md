@@ -33,8 +33,4 @@ AndroidApps4Oculus is a tool that enables you to run Android apps on your Oculus
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements for AndroidApps4Oculus, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## yes i did use chatGPT to write this
