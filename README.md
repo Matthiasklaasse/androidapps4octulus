@@ -12,7 +12,9 @@ AndroidApps4Oculus is a tool that enables you to run Android apps on your Oculus
     ./install-aurora
     ```
 
-3. **Enjoy Android Apps on Oculus**: Once the installation is complete, you're all set! You can now enjoy a variety of Android apps on your Oculus device through the Aurora Store.
+3. **Enable Installation from Unknown Sources**: After installing the Aurora Store, go to the settings on your Oculus device and enable installation from unknown sources. This will allow you to install and run apps downloaded from sources other than the Oculus Store. Please note that the Aurora Store and the apps installed through it will appear in the "Unknown Sources" tab, not in your main app library.
+
+4. **Enjoy Android Apps on Oculus**: Once the installation is complete and installation from unknown sources is enabled, you're all set! You can now enjoy a variety of Android apps on your Oculus device through the Aurora Store.
 
 ## Usage
 
@@ -32,3 +34,5 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## yes i did use chatGPT to write this
