@@ -1,0 +1,3 @@
+List of devices attached
+1WMHH837G80482         device product:hollywood model:Quest_2 device:hollywood transport_id:2
+
